@@ -1,5 +1,5 @@
 package = 'tant'
-version = '1.0'
+version = 'scm-1'
 source  = {
     url    = 'git+https://github.com/iusik/tant.git',
     branch = 'master',
